@@ -1,0 +1,26 @@
+@media screen and (max-width:500px) {
+    .innerbannertext{
+        position: relative;
+        top: -80px;
+        color: white;
+      }
+      .icon-bar img{
+        width:25px;
+        height: 25px;
+      }
+      .enquir_section{
+        height: 300px;
+      }
+      .footer_section{
+        margin-top: 0;
+      }
+    
+}
+@media  screen and (max-width:750px) {
+  .footer-pera{
+    color: white;
+  }
+.link_footer li a{
+  color: white;
+}
+}
